@@ -1,0 +1,228 @@
+AUREX SECURITY SYSTEM - ATTENDANCE REPORT
+Generated: 2026-11-16 11:55:10
+Total attendance movements: 32
+============================================================
+Date & Time : 2026-11-07 23:38:52
+Person Type : Employee
+Person ID   : DPH-EMP-222
+Person Name : Maliha Hasan
+Movement    : CHECK-IN
+Guard       : Administrator
+------------------------------------------------------------
+Date & Time : 2026-11-07 23:48:58
+Person Type : Visitor
+Person ID   : VIS-1794073676123
+Person Name : SCDFCD
+Movement    : CHECK-IN
+Guard       : Administrator
+------------------------------------------------------------
+Date & Time : 2026-11-07 23:50:43
+Person Type : Visitor
+Person ID   : VIS-1794073791324
+Person Name : CVSFG
+Movement    : CHECK-IN
+Guard       : Administrator
+------------------------------------------------------------
+Date & Time : 2026-11-08 06:37:53
+Person Type : Employee
+Person ID   : DPH-EMP-011
+Person Name : Nusrat Rahman
+Movement    : CHECK-IN
+Guard       : Administrator
+------------------------------------------------------------
+Date & Time : 2026-11-08 06:42:37
+Person Type : Employee
+Person ID   : DPH-EMP-057
+Person Name : Anika Ahmed
+Movement    : CHECK-IN
+Guard       : Administrator
+------------------------------------------------------------
+Date & Time : 2026-11-08 07:56:17
+Person Type : Employee
+Person ID   : DPH-EMP-007
+Person Name : Imran Rahman
+Movement    : CHECK-IN
+Guard       : Administrator
+------------------------------------------------------------
+Date & Time : 2026-11-08 12:09:49
+Person Type : Employee
+Person ID   : DPH-EMP-184
+Person Name : Tanvir Chowdhury
+Movement    : CHECK-IN
+Guard       : Administrator
+------------------------------------------------------------
+Date & Time : 2026-11-08 12:10:30
+Person Type : Employee
+Person ID   : DPH-EMP-184
+Person Name : Tanvir Chowdhury
+Movement    : CHECK-OUT
+Guard       : Administrator
+------------------------------------------------------------
+Date & Time : 2026-11-08 12:30:18
+Person Type : Employee
+Person ID   : DPH-EMP-247
+Person Name : Imran Uddin
+Movement    : CHECK-IN
+Guard       : Administrator
+------------------------------------------------------------
+Date & Time : 2026-11-08 12:38:55
+Person Type : Visitor
+Person ID   : VIS-1794119817917
+Person Name : RIFATUL Siam
+Movement    : CHECK-IN
+Guard       : Administrator
+------------------------------------------------------------
+Date & Time : 2026-11-08 19:01:37
+Person Type : Employee
+Person ID   : DPH-EMP-007
+Person Name : Imran Rahman
+Movement    : CHECK-OUT
+Guard       : Administrator
+------------------------------------------------------------
+Date & Time : 2026-11-08 19:43:01
+Person Type : Employee
+Person ID   : DPH-EMP-007
+Person Name : Imran Rahman
+Movement    : CHECK-IN
+Guard       : jhj
+------------------------------------------------------------
+Date & Time : 2026-11-08 19:49:09
+Person Type : Employee
+Person ID   : DPH-EMP-007
+Person Name : Imran Rahman
+Movement    : CHECK-OUT
+Guard       : Guard1
+------------------------------------------------------------
+Date & Time : 2026-11-08 19:56:42
+Person Type : Employee
+Person ID   : DPH-EMP-007
+Person Name : Imran Rahman
+Movement    : CHECK-IN
+Guard       : Guard1
+------------------------------------------------------------
+Date & Time : 2026-11-08 19:57:22
+Person Type : Employee
+Person ID   : DPH-EMP-007
+Person Name : Imran Rahman
+Movement    : CHECK-OUT
+Guard       : Guard1
+------------------------------------------------------------
+Date & Time : 2026-11-08 20:14:45
+Person Type : Employee
+Person ID   : DPH-EMP-285
+Person Name : Tania Khan
+Movement    : CHECK-IN
+Guard       : Gaurd1
+------------------------------------------------------------
+Date & Time : 2026-11-09 11:04:24
+Person Type : Employee
+Person ID   : DPH-EMP-146
+Person Name : Saiful Islam
+Movement    : CHECK-IN
+Guard       : ggg
+------------------------------------------------------------
+Date & Time : 2026-11-09 13:25:45
+Person Type : Employee
+Person ID   : DPH-EMP-247
+Person Name : Imran Uddin
+Movement    : CHECK-OUT
+Guard       : hj
+------------------------------------------------------------
+Date & Time : 2026-11-09 14:58:38
+Person Type : Employee
+Person ID   : DPH-EMP-007
+Person Name : Imran Rahman
+Movement    : CHECK-OUT
+Guard       : Guard1
+------------------------------------------------------------
+Date & Time : 2026-11-09 14:58:46
+Person Type : Employee
+Person ID   : DPH-EMP-007
+Person Name : Imran Rahman
+Movement    : CHECK-IN
+Guard       : Guard1
+------------------------------------------------------------
+Date & Time : 2026-11-09 15:00:24
+Person Type : Employee
+Person ID   : DPH-EMP-146
+Person Name : Saiful Islam
+Movement    : CHECK-OUT
+Guard       : Guard
+------------------------------------------------------------
+Date & Time : 2026-11-09 15:06:19
+Person Type : Employee
+Person ID   : DPH-EMO-265
+Person Name : Unknown
+Movement    : CHECK-IN
+Guard       : fh7dhfuyh
+------------------------------------------------------------
+Date & Time : 2026-11-09 15:43:50
+Person Type : Employee
+Person ID   : DPH-EMP-007
+Person Name : Imran Rahman
+Movement    : CHECK-OUT
+Guard       : snjndiuhbyi
+------------------------------------------------------------
+Date & Time : 2026-11-09 15:49:26
+Person Type : Employee
+Person ID   : DPH-EMP-007
+Person Name : Imran Rahman
+Movement    : CHECK-IN
+Guard       : guard
+------------------------------------------------------------
+Date & Time : 2026-11-09 21:07:55
+Person Type : Employee
+Person ID   : DPH-EMP-006
+Person Name : Fahim Rahman
+Movement    : CHECK-IN
+Guard       : gu
+------------------------------------------------------------
+Date & Time : 2026-11-09 21:11:10
+Person Type : Employee
+Person ID   : DPH-EMP-006
+Person Name : Fahim Rahman
+Movement    : CHECK-OUT
+Guard       : khoi
+------------------------------------------------------------
+Date & Time : 2026-11-09 21:32:40
+Person Type : Employee
+Person ID   : DPH-EMP-007
+Person Name : Imran Rahman
+Movement    : CHECK-OUT
+Guard       : ihiu7
+------------------------------------------------------------
+Date & Time : 2026-11-09 22:09:55
+Person Type : Employee
+Person ID   : DPH-EMP-007
+Person Name : Imran Rahman
+Movement    : CHECK-IN
+Guard       : ygt7
+------------------------------------------------------------
+Date & Time : 2026-11-11 13:09:19
+Person Type : Employee
+Person ID   : DPH-EMO-265
+Person Name : Unknown
+Movement    : CHECK-OUT
+Guard       : iyk
+------------------------------------------------------------
+Date & Time : 2026-11-11 13:11:10
+Person Type : Employee
+Person ID   : DPH-EMP-007
+Person Name : Imran Rahman
+Movement    : CHECK-OUT
+Guard       : Guard2
+------------------------------------------------------------
+Date & Time : 2026-11-11 13:13:24
+Person Type : Employee
+Person ID   : DPH-EMP-293
+Person Name : Kamrul Khan
+Movement    : CHECK-IN
+Guard       : jhi
+------------------------------------------------------------
+Date & Time : 2026-11-12 10:29:24
+Person Type : Employee
+Person ID   : DPH-EMP-007
+Person Name : Imran Rahman
+Movement    : CHECK-IN
+Guard       : GUARD
+------------------------------------------------------------
